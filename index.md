@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome Dave's website
+
+### Blah blah blah
+
+## Github info
 
 You can use the [editor on GitHub](https://github.com/davidaasen/davidaasen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
