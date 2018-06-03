@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 ## Papers on the arxiv:
 
 David Aasen, Ethan Lake, Kevin Walker. Fermion condensation and super pivotal categories. [arXiv:1709.01941](https://arxiv.org/abs/1709.01941)
@@ -18,12 +23,9 @@ Eduardo Martin-Martinez, David Aasen, Achim Kempf. Processing quantum informatio
 D. Aasen, Stefano Chesi, W. A. Coish. Quasiparticle velocities in 2D electron/hole liquids with spin-orbit coupling [	arXiv:1110.6661](https://arxiv.org/abs/1110.6661)
 
 
+## Google [Scholar](https://scholar.google.com/citations?user=vNuuzc8AAAAJ&hl=en) page 
 
 
-
----
-layout: default
----
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
