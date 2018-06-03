@@ -2,6 +2,20 @@
 layout: default
 ---
 
+## Research interests:
+Topological phases have materialized as one of the most exciting areas of research in modern con-
+densed matter physics. The topological character of a given phase may present itself in many ways,
+such as quantized edge currents, patterns of fractionalization, and topology-dependent ground-state de-
+generacy. These phases can also host exotic anyonic excitations whose statistics is neither bosonic nor
+fermionic. Even more strikingly, the anyonic statistics may be history dependent (i.e., depend on their
+shared topological charge). Such anyons are called "non-Abelian" and have widespread applications in
+topological quantum computing. Their applications are a major driving force of research on topological
+phases today, much of which is devoted to answering two questions: First, how can we realize and ul-
+timately manipulate topological phases to our advantage? Second, how do we characterize and classify
+topological phases of matter? Classifcations are often abstract yet have profound physical consequences.
+In particular, they determine what nature allows as a matter of principle, in turn prompting us to search
+for realizations.
+
 
 ## Papers on the arxiv:
 
