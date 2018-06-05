@@ -28,6 +28,8 @@ D. Aasen, Stefano Chesi, W. A. Coish. Quasiparticle velocities in 2D electron/ho
 
 ## Google [Scholar](https://scholar.google.com/citations?user=vNuuzc8AAAAJ&hl=en) page 
 
+[Link to CV (up-to-date June 2018)](./CV.html).
+
 [Link to another page](./another-page.html).
 
 
