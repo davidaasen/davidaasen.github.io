@@ -1,7 +1,7 @@
 ---
 layout: default
-title: A Random title
-+comments: true
+title: hi
+comments: true
 ---
 
 
