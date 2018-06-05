@@ -5,21 +5,4 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 
-   comments:
- provider: "staticman"
-   staticman:
- allowedFields          : ['name', 'email', 'url', 'message']
- branch                 : # "master", "gh-pages"
- commitMessage          : "New comment."
- filename               : comment-{@timestamp}
- format                 : "yml"
- moderation             : false
- path                   : "_data/comments/{options.slug}"
- requiredFields         : ['name', 'email', 'message']
- transforms:
-   email                : "md5"
- generatedFields:
-   date:
-type               : "date"
-options:
-  format           : "iso8601"
+ 
