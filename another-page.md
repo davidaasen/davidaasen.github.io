@@ -1,6 +1,9 @@
 ---
 layout: default
+title: A Random title
++comments: true
 ---
+
 
 ## Welcome to another page
 
