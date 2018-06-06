@@ -3,7 +3,7 @@ layout: cv
 title: David Aasen's CV
 ---
 
-# [Dave Aasen](dave.aasen.ca)
+# [Dave Aasen](https://dave.aasen.ca/)
 
 <div id="webaddress">
 <a href="dave@aasen.ca">dave (at) aasen.ca</a>
