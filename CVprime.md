@@ -2,7 +2,7 @@
 layout: cv
 title: David Aasen's CV
 ---
-# David Aasen
+# Dave
 
 <div id="webaddress">
 <a href="dave@aasen.ca">dave (at) aasen.ca</a>
