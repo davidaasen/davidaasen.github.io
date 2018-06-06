@@ -1,9 +1,9 @@
-<p><a href="./">back</a></p>
-
 ---
 layout: cv
 title: David Aasen's CV
 ---
+
+<p><a href="./">back</a></p>
 
 # Dave Aasen
 
