@@ -27,7 +27,7 @@ Topological phases have materialized as one of the most exciting areas of resear
 
 ## Google [Scholar](https://scholar.google.com/citations?user=vNuuzc8AAAAJ&hl=en) page 
 
-[Link to CV (up-to-date June 2018)](./CV.html).
+[Link to CV (up-to-date June 2018)](./CVprime.html).
 
 [Link to another page](./another-page.html).
 
