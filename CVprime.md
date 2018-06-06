@@ -3,9 +3,7 @@ layout: cv
 title: David Aasen's CV
 ---
 
-<p><a href="./">back</a></p>
-
-# Dave Aasen
+# [Dave Aasen](dave.aasen.ca)
 
 <div id="webaddress">
 <a href="dave@aasen.ca">dave (at) aasen.ca</a>
@@ -107,10 +105,7 @@ Eduardo Martin-Martinez, David Aasen, Achim Kempf. Processing quantum informatio
 `2011`
 David Aasen, Stefano Chesi, W. A. Coish. Quasiparticle velocities in 2D electron/hole liquids with spin-orbit coupling. Phys. Rev. B 85, 075321 (2012) [arXiv:1110.6661](https://arxiv.org/abs/1110.6661)
 
-<!-- 
 
 ### Footer
 
-### <p><a href="./">back</a></p>
-
-Last updated: June 2018 -->
+<p><a href="./">back</a></p>
