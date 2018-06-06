@@ -163,6 +163,7 @@ a {
 */
 
 a:link {
+	color: inherit;
     text-decoration: none;
 }
 
