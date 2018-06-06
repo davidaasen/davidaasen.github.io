@@ -107,5 +107,3 @@ David Aasen, Stefano Chesi, W. A. Coish. Quasiparticle velocities in 2D electron
 
 
 ### [Back](./)
-
-/*<p><a href="./">back</a></p>*/
