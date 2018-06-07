@@ -167,9 +167,22 @@ a:link {
     text-decoration: none;
 }
 
+/* visited link */
+a:visited {
+	color: inherit;
+    text-decoration: none;
+}
+
+
 a:hover {
 	color:#39f
 	text-decoration:none;
+}
+
+/* selected link */
+a:active {
+	color: inherit;
+    text-decoration: none;
 }
 
 #webaddress {
