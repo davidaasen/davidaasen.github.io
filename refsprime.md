@@ -5,6 +5,10 @@ title: some referencess
 
 # [Arxiv papers](./)
 
+<div id="webaddress">
+<a href="dave@aasen.ca">dave (at) aasen.ca</a>
+</div>
+
 `blaj`
 (a url)[https://www.google.com/]
 
