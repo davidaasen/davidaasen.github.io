@@ -3,16 +3,15 @@ layout: cv
 title: some referencess
 ---
 
-# [Dave Aasen](./)
+# [Arxiv papers](./)
 
-<div id="webaddress">
-<a href="dave@aasen.ca">dave (at) aasen.ca</a>
-</div>
 
 ## Education
  (blah)[https://arxiv.org/abs/1806.04184]
 
-## 6/12/2018 `6/12/2018` 
+## 6/12/2018 
+
+`6/12/2018` 
  ([1806.04184] Intermediate gapless phase and topological phase transition of Kitaev model in a uniform magnetic field)[https://arxiv.org/abs/1806.04184]
  
 
