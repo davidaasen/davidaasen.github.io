@@ -1,84 +1,10 @@
 ---
 layout: cv
-title: David Aasen's CV
+title: References
 ---
 
 # [Dave Aasen](./)
 
-<div id="webaddress">
-<a href="dave@aasen.ca">dave (at) aasen.ca</a>
-</div>
-
-## Education
-
-`2018-` 
-__Microsoft postdoctoral scholar with the Condensed Matter group at the Department of Physics__ (upcoming, Santa Barbara)
-
-`2012-18` 
-__California Institute of Technology__ PhD
-
-`2008-11` 
-__McGill University__ Joint Honours in Mathematics and Physics 
-
-`2007-08`
-__University of Waterloo__ One year of Nanotechnology Engineering
-
-## Awards
-
-`2016`
-__The Tombrello Scholar__ (Caltech)
-
-`2016`
-__KITP Graduate Fellowship__
-
-`2013-16`
-__NSERC Postgraduate Scholarship__
-
-`2012-13`
-__NSERC Postgraduate Scholarship__
-
-`2010`
-__James F Mathison Scholarship__ (McGill)
-
-## Academic Activities
-
-`2018`
-__Internship at Microsoft Research__ (Microsoft Redmond campus)
-
-`2017`
-__Member of the IQIM seminar organization committee__ (Caltech, 2017)
-
-`2016`
-__KITP graduate fellow__
-
-`2016`
-__Boulder school for Topological Phases of Quantum Matter__
-
-`2014`
-__Les Houches summer school on topological aspects of condensed matter physics__
-
-`2013` 
-__Invited participant of the Microsoft Station Q meeting__
-
-## Invited Talks
-`2018` 
-__Sydney Quantum Information Theory Workshop__ (Coogee)
-
-`2017`
-__Yale__
-
-__Perimeter Institute for Theoretical Physics__
-
-__Microsoft Research Station Q seminar__ (Santa Barbara)
-
-__Strongly Correlated Topological Phases of Matter__ (Simons center for geometry and physics)
-
-__String theory group seminar__ (Ludwig Maximilian University)
-
-__Cocycling in Flanders__ (Ghent University, April 2017)
-
-`2012`
-__Relativistic quantum information - North__ (Perimeter Institute for theoretical physics)
 
 ## Publications
 
