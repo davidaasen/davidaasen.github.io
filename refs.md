@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: referencepage
 title: David Aasen's CV
 ---
 
