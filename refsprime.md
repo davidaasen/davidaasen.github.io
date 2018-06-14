@@ -5,6 +5,27 @@ title: some referencess
 
 # Some papers from the arxiv
 
+## 5 
+`6/13/2018` 
+ [[1806.05021] Characterization of quantum spin liquids and their spinon band structures via functional renormalization](https://arxiv.org/abs/1806.05021) 
+ 
+
+`6/13/2018` 
+ [[1806.04977] Critical behavior of Dirac fermions from perturbative renormalization](https://arxiv.org/abs/1806.04977) 
+ 
+
+`6/13/2018` 
+ [[1806.04687] Cage-Net Fracton Models](https://arxiv.org/abs/1806.04687) 
+ 
+
+`6/13/2018` 
+ [[1806.05007] Quantum error correction and entanglement spectrum in tensor networks](https://arxiv.org/abs/1806.05007) 
+ 
+
+`6/13/2018` 
+ [[1806.04682] High-fidelity control and entanglement of Rydberg atom qubits](https://arxiv.org/abs/1806.04682) 
+ 
+
 ## 7 
 `6/12/2018` 
  [[1806.03416] Khovanov homology and categorification of skein modules](https://arxiv.org/abs/1806.03416) 
