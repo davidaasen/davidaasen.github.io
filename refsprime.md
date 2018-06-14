@@ -5,10 +5,6 @@ title: some referencess
 
 # Some papers from the arxiv
 
-Interplay between electronic correlation and metal-ligand delocalization  in the spectroscopy of transition metal compounds: case study on a series of  planar Cu2+^{2+} complexes
-Emmanuel Giner, David Tew, Yann Garniron, Ali Alavi
-https://arxiv.org/abs/1806.05115
-
 ## 5 
 `6/13/2018` 
  [[1806.05021] Characterization of quantum spin liquids and their spinon band structures via functional renormalization](https://arxiv.org/abs/1806.05021) 
