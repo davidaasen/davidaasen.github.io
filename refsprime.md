@@ -5,14 +5,7 @@ title: some referencess
 
 # Some papers from the arxiv
 
-[Quantum error correction and entanglement spectrum in tensor networks](https://arxiv.org/abs/1806.05007)Yi Ling, Yuxuan Liu, Zhuo-Yu Xian, Yikang Xiao
-
-[
-Quantum error correction and entanglement spectrum in tensor networks
-]
-(
-https://arxiv.org/abs/1806.05007
-)
+[Quantum error correction and entanglement spectrum in tensor networks](https://arxiv.org/abs/1806.05007)
 Yi Ling, Yuxuan Liu, Zhuo-Yu Xian, Yikang Xiao
 
 ## 5 
