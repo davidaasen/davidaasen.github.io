@@ -5,8 +5,14 @@ title: some referencess
 
 # Some papers from the arxiv
 
-[Quantum error correction and entanglement spectrum in tensor networks](https://arxiv.org/abs/1806.05007)
-Yi Ling, Yuxuan Liu, Zhuo-Yu Xian, Yikang Xiao
+## 2 
+`6/14/2018` 
+ [[1806.05656] Supersymmetric Quantum Spherical Spins](https://arxiv.org/abs/1806.05656) 
+ 
+
+`6/14/2018` 
+ [[1806.05640] Classification of Quantum Groups via Galois cohomology](https://arxiv.org/abs/1806.05640) 
+ 
 
 ## 5 
 `6/13/2018` 
