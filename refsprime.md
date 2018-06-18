@@ -5,6 +5,23 @@ title: some referencess
 
 # Some papers from the arxiv
 
+## 4 
+`6/17/2018` 
+ [[1806.05681] Fractional Excitonic Insulator](https://arxiv.org/abs/1806.05681) 
+ 
+
+`6/17/2018` 
+ [[1806.05964] Supervised learning with generalized tensor networks](https://arxiv.org/abs/1806.05964) 
+ 
+
+`6/17/2018` 
+ [[1806.05969] Orbital Magnetic Tilting and Majorana Spin Connection](https://arxiv.org/abs/1806.05969) 
+ 
+
+`6/17/2018` 
+ [[1806.05718] An action of gl(1|1) on odd annular Khovanov homology](https://arxiv.org/abs/1806.05718) 
+ 
+ 
 ## 2 
 `6/14/2018` 
  [[1806.05656] Supersymmetric Quantum Spherical Spins](https://arxiv.org/abs/1806.05656) 
