@@ -5,6 +5,27 @@ title: some referencess
 
 # Some papers from the arxiv
 
+## 5 
+`6/19/2018` 
+ [[1806.06495] Pristine Mott Insulator from an Exactly Solvable Spin-1/2 Kitaev Model](https://arxiv.org/abs/1806.06495) 
+ 
+
+`6/19/2018` 
+ [[1806.06092] Majorana-Hubbard model on the honeycomb lattice](https://arxiv.org/abs/1806.06092) 
+ 
+
+`6/19/2018` 
+ [[1806.06078] Instantaneous braids and Dehn twists in topologically ordered states](https://arxiv.org/abs/1806.06078) 
+ 
+
+`6/19/2018` 
+ [[1806.06368] Uniform quantum groups, and their easiness level](https://arxiv.org/abs/1806.06368) 
+ 
+
+`6/19/2018` 
+ [[1806.06680] Asymmetric Hopfield neural network and twisted tetrahedron equation](https://arxiv.org/abs/1806.06680) 
+ 
+
 ## 4 
 `6/17/2018` 
  [[1806.05681] Fractional Excitonic Insulator](https://arxiv.org/abs/1806.05681) 
