@@ -5,6 +5,19 @@ title: some referencess
 
 # Some papers from the arxiv
 
+## 3 
+`6/19/2018` 
+ [[1806.06858] A Variational Approach to Chiral Topological Order Interfaces](https://arxiv.org/abs/1806.06858) 
+ 
+
+`6/19/2018` 
+ [[1806.06976] Roton-phonon excitations in Chern-Simons matter theory at finite density](https://arxiv.org/abs/1806.06976) 
+ 
+
+`6/19/2018` 
+ [[1806.06885] Implementing smooth functions of a Hermitian matrix on a quantum computer](https://arxiv.org/abs/1806.06885) 
+ 
+
 ## 5 
 `6/19/2018` 
  [[1806.06495] Pristine Mott Insulator from an Exactly Solvable Spin-1/2 Kitaev Model](https://arxiv.org/abs/1806.06495) 
