@@ -6,6 +6,19 @@ title: some referencess
 # Some papers from the arxiv
 
 ## 3 
+`6/20/2018` 
+ [[1806.07794] Bulk Entanglement and Boundary Spectra in Gapped Topological Phases](https://arxiv.org/abs/1806.07794) 
+ 
+
+`6/20/2018` 
+ [[1806.07873] Band Structure of Twisted Bilayer Graphene: Emergent Symmetries, Commensurate Approximants and Wannier Obstructions](https://arxiv.org/abs/1806.07873) 
+ 
+
+`6/20/2018` 
+ [[1806.07776] Vertex operators, solvable lattice models and metaplectic Whittaker functions](https://arxiv.org/abs/1806.07776) 
+ 
+
+## 3 
 `6/19/2018` 
  [[1806.06858] A Variational Approach to Chiral Topological Order Interfaces](https://arxiv.org/abs/1806.06858) 
  
