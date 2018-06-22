@@ -6,6 +6,19 @@ title: some referencess
 # Some papers from the arxiv
 
 ## 3 
+`6/21/2018` 
+ [[1806.08315] Two and three electrons on a sphere: A generalized Thomson problem](https://arxiv.org/abs/1806.08315) 
+ 
+
+`6/21/2018` 
+ [[1806.08060] Reconstructing Entanglement Hamiltonian via Entanglement Eigenstates](https://arxiv.org/abs/1806.08060) 
+ 
+
+`6/21/2018` 
+ [[1806.08277] A Hennings type invariant of $3$-manifolds from a topological Hopf superalgebra](https://arxiv.org/abs/1806.08277) 
+ 
+
+## 3 
 `6/20/2018` 
  [[1806.07794] Bulk Entanglement and Boundary Spectra in Gapped Topological Phases](https://arxiv.org/abs/1806.07794) 
  
