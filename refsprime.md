@@ -5,6 +5,31 @@ title: some referencess
 
 # Some papers from the arxiv
 
+## 6 
+`6/24/2018` 
+ [[1806.08679] Foliated fracton order from gauging subsystem symmetries](https://arxiv.org/abs/1806.08679) 
+ 
+
+`6/24/2018` 
+ [[1806.08633] Foliated fracton order in the checkerboard model](https://arxiv.org/abs/1806.08633) 
+ 
+
+`6/24/2018` 
+ [[1806.08625] Fractional excitations in foliated fracton phases](https://arxiv.org/abs/1806.08625) 
+ 
+
+`6/24/2018` 
+ [[1806.08780] Subsystem symmetries, quantum cellular automata, and computational phases of quantum matter](https://arxiv.org/abs/1806.08780) 
+ 
+
+`6/24/2018` 
+ [[1806.08363] Qsymm: Algorithmic symmetry finding and symmetric Hamiltonian generation](https://arxiv.org/abs/1806.08363) 
+ 
+
+`6/24/2018` 
+ [[1806.08400] Solutions to the constant Yang-Baxter equation in all dimensions](https://arxiv.org/abs/1806.08400) 
+ 
+
 ## 3 
 `6/21/2018` 
  [[1806.08315] Two and three electrons on a sphere: A generalized Thomson problem](https://arxiv.org/abs/1806.08315) 
