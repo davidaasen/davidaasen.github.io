@@ -5,6 +5,19 @@ title: some referencess
 
 # Some papers from the arxiv
 
+## 3 
+`6/25/2018` 
+ [[1806.08795] Topological Superconductivity in Dirac Honeycomb Systems](https://arxiv.org/abs/1806.08795) 
+ 
+
+`6/25/2018` 
+ [[1806.09599] Coupled Wire Models of Interacting Dirac Nodal Superconductors](https://arxiv.org/abs/1806.09599) 
+ 
+
+`6/25/2018` 
+ [[1806.09223] Critical density of topological defects upon a continuous phase transition](https://arxiv.org/abs/1806.09223) 
+ 
+
 ## 6 
 `6/24/2018` 
  [[1806.08679] Foliated fracton order from gauging subsystem symmetries](https://arxiv.org/abs/1806.08679) 
