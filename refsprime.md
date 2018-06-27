@@ -38,10 +38,6 @@ title: some referencess
  [[1806.09622] Modular Flow as a Disentangler](https://arxiv.org/abs/1806.09622) 
  
 
-`6/26/2018` 
- [New Tab](chrome://newtab/) 
- 
-
 ## 3 
 `6/25/2018` 
  [[1806.08795] Topological Superconductivity in Dirac Honeycomb Systems](https://arxiv.org/abs/1806.08795) 
