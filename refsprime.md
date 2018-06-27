@@ -5,6 +5,43 @@ title: some referencess
 
 # Some papers from the arxiv
 
+## 9 
+`6/26/2018` 
+ [[1806.10106] The origin of holomorphic states in Landau levels from non-commutative geometry, and a new formula for their overlaps on the torus](https://arxiv.org/abs/1806.10106) 
+ 
+
+`6/26/2018` 
+ [[1806.09709] Full Commuting Projector Hamiltonians of Interacting Symmetry-Protected Topological Phases of Fermions](https://arxiv.org/abs/1806.09709) 
+ 
+
+`6/26/2018` 
+ [[1806.09623] Disentangling interacting symmetry protected phases of fermions in two dimensions](https://arxiv.org/abs/1806.09623) 
+ 
+
+`6/26/2018` 
+ [[1806.09903] On Melonic Supertensor Models](https://arxiv.org/abs/1806.09903) 
+ 
+
+`6/26/2018` 
+ [[1806.09626] Exact holographic tensor networks for the Motzkin spin chain](https://arxiv.org/abs/1806.09626) 
+ 
+
+`6/26/2018` 
+ [[1806.10007] An infinite-dimensional $\square_q$-module obtained from the $q$-shuffle algebra for affine $\mathfrak{sl}_2$](https://arxiv.org/abs/1806.10007) 
+ 
+
+`6/26/2018` 
+ [[1806.09146] Cosets, characters and fusion for admissible-level $\mathfrak{osp}(1 \vert 2)$ minimal models](https://arxiv.org/abs/1806.09146) 
+ 
+
+`6/26/2018` 
+ [[1806.09622] Modular Flow as a Disentangler](https://arxiv.org/abs/1806.09622) 
+ 
+
+`6/26/2018` 
+ [New Tab](chrome://newtab/) 
+ 
+
 ## 3 
 `6/25/2018` 
  [[1806.08795] Topological Superconductivity in Dirac Honeycomb Systems](https://arxiv.org/abs/1806.08795) 
