@@ -5,6 +5,23 @@ title: some referencess
 
 # Some papers from the arxiv
 
+## 4 
+`6/27/2018` 
+ [arXiv.org e-Print archive](https://arxiv.org/) 
+ 
+
+`6/27/2018` 
+ [[1806.10134] Modeling Position and Momentum in Finite-Dimensional Hilbert Spaces via Generalized Clifford Algebra](https://arxiv.org/abs/1806.10134) 
+ 
+
+`6/27/2018` 
+ [[1806.10151] Platform for measurements of the Casimir force between two superconductors](https://arxiv.org/abs/1806.10151) 
+ 
+
+`6/27/2018` 
+ [[1806.10219] From Reflection Equation Algebra to Braided Yangians](https://arxiv.org/abs/1806.10219) 
+ 
+
 ## 9 
 `6/26/2018` 
  [[1806.10106] The origin of holomorphic states in Landau levels from non-commutative geometry, and a new formula for their overlaps on the torus](https://arxiv.org/abs/1806.10106) 
