@@ -6,6 +6,23 @@ title: some referencess
 # Some papers from the arxiv
 
 ## 4 
+`6/28/2018` 
+ [[1806.10960] Exact Solution to a Class of Generalized Kitaev Spin-$1/2$ Models in Arbitrary Dimensions](https://arxiv.org/abs/1806.10960) 
+ 
+
+`6/28/2018` 
+ [[1806.10809] Edge magnetization and spin transport in an SU(2)-symmetric Kitaev spin liquid](https://arxiv.org/abs/1806.10809) 
+ 
+
+`6/28/2018` 
+ [[1806.10933] Quantum scarred eigenstates in a Rydberg atom chain: entanglement, breakdown of thermalization, and stability to perturbations](https://arxiv.org/abs/1806.10933) 
+ 
+
+`6/28/2018` 
+ [[1806.10783] Quasi-stable configurations of torus vortex knots and links](https://arxiv.org/abs/1806.10783) 
+ 
+
+## 4 
 `6/27/2018` 
  [arXiv.org e-Print archive](https://arxiv.org/) 
  
