@@ -5,6 +5,59 @@ title: some referencess
 
 # Some papers from the arxiv
 
+## 13 
+`7/8/2018` 
+ [[1807.00827] Symmetric Tensor Gauge Theories on Curved Spaces](https://arxiv.org/abs/1807.00827) 
+ 
+
+`7/8/2018` 
+ [[1807.01091] Unified understanding of symmetry-based indicators for all internal symmetry classes](https://arxiv.org/abs/1807.01091) 
+ 
+
+`7/8/2018` 
+ [[1807.02129] Operads and Maurer-Cartan spaces](https://arxiv.org/abs/1807.02129) 
+ 
+
+`7/8/2018` 
+ [[1807.02100] About categorification of cyclotomic integers and tensored N-complexes](https://arxiv.org/abs/1807.02100) 
+ 
+
+`7/8/2018` 
+ [[1807.01536] Quantum Langlands duality of representations of W-algebras](https://arxiv.org/abs/1807.01536) 
+ 
+
+`7/8/2018` 
+ [[1807.01149] Twisted deformations vs. cocycle deformations for quantum groups](https://arxiv.org/abs/1807.01149) 
+ 
+
+`7/8/2018` 
+ [[1807.00770] Drinfeld double of quantum groups, tilting modules and $\mathbb{Z}$-modular data associated to complex reflection groups](https://arxiv.org/abs/1807.00770) 
+ 
+
+`7/8/2018` 
+ [[1807.00766] Slightly degenerate categories and $\mathbb{Z}$-modular data](https://arxiv.org/abs/1807.00766) 
+ 
+
+`7/8/2018` 
+ [[1807.00415] Fusion categories for affine vertex algebras at admissible levels](https://arxiv.org/abs/1807.00415) 
+ 
+
+`7/8/2018` 
+ [[1807.01640] Uhlmann fidelities from tensor networks](https://arxiv.org/abs/1807.01640) 
+ 
+
+`7/8/2018` 
+ [[1807.02193] Mesonic excited states of magnetic monopoles in quantum spin ice](https://arxiv.org/abs/1807.02193) 
+ 
+
+`7/8/2018` 
+ [[1807.02193] Mesonic excited states of magnetic monopoles in quantum spin ice](https://arxiv.org/abs/1807.02193) 
+ 
+
+`7/8/2018` 
+ [[1807.02501] Tensor networks as path integral geometry](https://arxiv.org/abs/1807.02501) 
+ 
+
 ## 4 
 `6/28/2018` 
  [[1806.10960] Exact Solution to a Class of Generalized Kitaev Spin-$1/2$ Models in Arbitrary Dimensions](https://arxiv.org/abs/1806.10960) 
