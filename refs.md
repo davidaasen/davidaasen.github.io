@@ -5,6 +5,27 @@ title: some referencess
 
 # Some papers from the arxiv
 
+## 5 
+`7/9/2018` 
+ [[1807.02997] Fractional Quantum Hall Effect at $\nu=2+6/13$: The Parton Paradigm for the Second Landau Level](https://arxiv.org/abs/1807.02997) 
+ 
+
+`7/9/2018` 
+ [[1807.02864] Extraction of topological information in Tomonaga-Luttinger liquids](https://arxiv.org/abs/1807.02864) 
+ 
+
+`7/9/2018` 
+ [[1807.02949] Topological states in the Kronig-Penney model with arbitrary scattering potentials](https://arxiv.org/abs/1807.02949) 
+ 
+
+`7/9/2018` 
+ [[1807.02893] Turaev bicategories, generalized Yetter-Drinfel`d modules in 2-categories and a Turaev 2-category for bimonads in 2-categories](https://arxiv.org/abs/1807.02893) 
+ 
+
+`7/9/2018` 
+ [[1807.03080] Quantum symmetries on noncommutative complex spheres with partial commutation relations](https://arxiv.org/abs/1807.03080) 
+ 
+
 ## 13 
 `7/8/2018` 
  [[1807.00827] Symmetric Tensor Gauge Theories on Curved Spaces](https://arxiv.org/abs/1807.00827) 
