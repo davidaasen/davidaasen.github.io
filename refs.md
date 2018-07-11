@@ -5,6 +5,19 @@ title: some referencess
 
 # Some papers from the arxiv
 
+## 3 
+`7/11/2018` 
+ [[1807.03325] Symmetries and many-body excited states with neural-network quantum states](https://arxiv.org/abs/1807.03325) 
+ 
+
+`7/11/2018` 
+ [[1807.03600] On quantum computation of Kloosterman sums](https://arxiv.org/abs/1807.03600) 
+ 
+
+`7/11/2018` 
+ [[1807.03327] Growth of quantum 6j-symbols and applications to the Volume Conjecture](https://arxiv.org/abs/1807.03327) 
+ 
+
 ## 5 
 `7/9/2018` 
  [[1807.02997] Fractional Quantum Hall Effect at $\nu=2+6/13$: The Parton Paradigm for the Second Landau Level](https://arxiv.org/abs/1807.02997) 
