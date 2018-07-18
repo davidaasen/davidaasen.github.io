@@ -5,6 +5,11 @@ title: some referencess
 
 # Some papers from the arxiv
 
+## 1
+`7/17/2018` 
+ [1807.06131.pdf](https://arxiv.org/pdf/1807.06131.pdf) 
+ 
+ 
 ## 3 
 `7/11/2018` 
  [[1807.03325] Symmetries and many-body excited states with neural-network quantum states](https://arxiv.org/abs/1807.03325) 
