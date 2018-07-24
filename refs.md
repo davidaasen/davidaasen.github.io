@@ -5,6 +5,228 @@ title: some referencess
 
 # Some papers from the arxiv
 
+Furniture stuff:
+## 54 
+`7/23/2018` 
+ [Oak coffe table - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/oak-coffe-table/6643369509.html) 
+ 
+
+`7/23/2018` 
+ [7.75'x5.25' Rug - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/775x525-rug/6642771844.html) 
+ 
+
+`7/23/2018` 
+ [Rattan lounge chair with cushion- needs washing/refinishing - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/rattan-lounge-chair-with/6627847568.html) 
+ 
+
+`7/23/2018` 
+ [Bedroom set Sturdy Oak Made in USA Dresser Nightstand Wardrobe - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/bedroom-set-sturdy-oak-made/6633937876.html) 
+ 
+
+`7/23/2018` 
+ [High-set stylish kitchen table for two with stools - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/high-set-stylish-kitchen/6635552384.html) 
+ 
+
+`7/23/2018` 
+ [Chairs - Black Wrought Iron (2) - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/chairs-black-wrought-iron-2/6618141517.html) 
+ 
+
+`7/23/2018` 
+ [SOFA U LOVE CHAIR - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/sofa-love-chair/6625752029.html) 
+ 
+
+`7/23/2018` 
+ [Small drop leaf dining table (or craft table) - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/small-drop-leaf-dining-table/6627899505.html) 
+ 
+
+`7/23/2018` 
+ [Large Desk for sale - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/large-desk-for-sale/6638908691.html) 
+ 
+
+`7/23/2018` 
+ [Matching 2 split-level pure wood end tables - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/matching-2-split-level-pure/6622950334.html) 
+ 
+
+`7/23/2018` 
+ [Double Chaise Outdoor Chair - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/double-chaise-outdoor-chair/6636858749.html) 
+ 
+
+`7/23/2018` 
+ [McIntosh 4 Piece Deep Seating Outdoor - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/mcintosh-4-piece-deep-seating/6629566168.html) 
+ 
+
+`7/23/2018` 
+ [Bistro Set (reduced!) - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/bistro-set-reduced/6610011803.html) 
+ 
+
+`7/23/2018` 
+ [30in tall Directors chairs for the pair - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/30in-tall-directors-chairs/6620504099.html) 
+ 
+
+`7/23/2018` 
+ [BEAUTIFUL GLASS TOPPED RATTAN TABLE - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/beautiful-glass-topped-rattan/6649971664.html) 
+ 
+
+`7/23/2018` 
+ [Barrel Side Tables - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/barrel-side-tables/6649576954.html) 
+ 
+
+`7/23/2018` 
+ [2 cast iron patio chairs with turquoise bettina - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/2-cast-iron-patio-chairs-with/6644895711.html) 
+ 
+
+`7/23/2018` 
+ [BLISS LOVESEAT WITH CUSHIONS recliner by Domus Ventures - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/bliss-loveseat-with-cushions/6648947454.html) 
+ 
+
+`7/23/2018` 
+ [2 Bunjo Chairs - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/2-bunjo-chairs/6638822943.html) 
+ 
+
+`7/23/2018` 
+ [Coffe Table - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/coffe-table/6648707205.html) 
+ 
+
+`7/23/2018` 
+ [Moving Sale! - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/moving-sale/6638163546.html) 
+ 
+
+`7/23/2018` 
+ [West Elm coffee Table - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/west-elm-coffee-table/6647858619.html) 
+ 
+
+`7/23/2018` 
+ [Vintage Lane Table Heavy Sturdy Wood Stamped 1960's-70's - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/vintage-lane-table-heavy/6638025155.html) 
+ 
+
+`7/23/2018` 
+ [Pacifica Square Conference Table - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/pacifica-square-conference/6646067452.html) 
+ 
+
+`7/23/2018` 
+ [Hardwood Table - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/hardwood-table/6645998789.html) 
+ 
+
+`7/23/2018` 
+ [Amazing art & writing desk - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/amazing-art-writing-desk/6645398034.html) 
+ 
+
+`7/23/2018` 
+ [Armoire - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/armoire/6645361436.html) 
+ 
+
+`7/23/2018` 
+ [Coffee Table - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/coffee-table/6645443528.html) 
+ 
+
+`7/23/2018` 
+ [Pair of oak file cabinets w dovetail drawers, locks - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/pair-of-oak-file-cabinets/6645328199.html) 
+ 
+
+`7/23/2018` 
+ [Cute elephant lamp! - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/cute-elephant-lamp/6645053324.html) 
+ 
+
+`7/23/2018` 
+ [Ekornes Mayfair Recliner with ottoman - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/ekornes-mayfair-recliner-with/6648059836.html) 
+ 
+
+`7/23/2018` 
+ [Paul Evans glass cocktail table - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/paul-evans-glass-cocktail/6632860498.html) 
+ 
+
+`7/23/2018` 
+ [Vintage Shabby Style Hutch - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/vintage-shabby-style-hutch/6644417979.html) 
+ 
+
+`7/23/2018` 
+ [Solid Maple and Mahogany corner desk - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/solid-maple-and-mahogany/6650222505.html) 
+ 
+
+`7/23/2018` 
+ [Gorgeous leather La-Z-Boy Doublewide recliner - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/gorgeous-leather-la-boy/6643371031.html) 
+ 
+
+`7/23/2018` 
+ [Ethan Allen Coffee Table - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/ethan-allen-coffee-table/6640749487.html) 
+ 
+
+`7/23/2018` 
+ [Midcentury Modern Table - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/midcentury-modern-table/6635169377.html) 
+ 
+
+`7/23/2018` 
+ [Outdoor seating - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/outdoor-seating/6650509808.html) 
+ 
+
+`7/23/2018` 
+ [Gorgeous antique drop leaf table - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/gorgeous-antique-drop-leaf/6640305001.html) 
+ 
+
+`7/23/2018` 
+ [Mid century rocker - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/mid-century-rocker/6651228179.html) 
+ 
+
+`7/23/2018` 
+ [Memory Foam Bean Bag - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/memory-foam-bean-bag/6631216480.html) 
+ 
+
+`7/23/2018` 
+ [Sleeper love seats ($40 for pair). Armless chairs + office chair FREE - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/sleeper-love-seats-40-for/6651230710.html) 
+ 
+
+`7/23/2018` 
+ [Microsuede Brown Sectional Couch - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/microsuede-brown-sectional/6651179689.html) 
+ 
+
+`7/23/2018` 
+ [2 Danish Modern Style Teak Arm Chairs by Benny Linden - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/2-danish-modern-style-teak/6638434779.html) 
+ 
+
+`7/23/2018` 
+ [Comfy two piece red couch - FREE - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/comfy-two-piece-red-couch-free/6650950417.html) 
+ 
+
+`7/23/2018` 
+ [Walnut/Walnut Veneer Coffee Table Set - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/walnut-walnut-veneer-coffee/6638772403.html) 
+ 
+
+`7/23/2018` 
+ [Free Couch - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/free-couch/6651390838.html) 
+ 
+
+`7/23/2018` 
+ [Reclaimed Handmade Coffeetable - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/reclaimed-handmade-coffeetable/6649553492.html) 
+ 
+
+`7/23/2018` 
+ [Beautiful Mid Century Modern Teak Coffee Table - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/beautiful-mid-century-modern/6646832835.html) 
+ 
+
+`7/23/2018` 
+ [Small side table - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/small-side-table/6642293089.html) 
+ 
+
+`7/23/2018` 
+ [OUTDOOR SOFA - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/outdoor-sofa/6626081743.html) 
+ 
+
+`7/23/2018` 
+ [Outdoor Patio Set with Chairs and Table - furniture - by dealer - sale](https://santabarbara.craigslist.org/fud/d/outdoor-patio-set-with-chairs/6646349112.html) 
+ 
+
+`7/23/2018` 
+ [teak outdoor deep seating sofa - furniture - by owner - sale](https://santabarbara.craigslist.org/fuo/d/teak-outdoor-deep-seating-sofa/6634455947.html) 
+ 
+
+`7/23/2018` 
+ [santa barbara for sale "furniture" - craigslist](https://santabarbara.craigslist.org/search/sss?query=furniture&sort=rel) 
+ 
+ 
+ Furniture stuff
+ 
+ 
+
 ## 1
 `7/17/2018` 
  [1807.06131.pdf](https://arxiv.org/pdf/1807.06131.pdf) 
