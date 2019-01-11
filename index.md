@@ -7,6 +7,7 @@ Topological phases have materialized as one of the most exciting areas of resear
 
 
 ## Papers on the arxiv:
+1. Kevin Slagle, David Aasen, Dominic Williamson. Foliated Field Theory and String-Membrane-Net Condensation Picture of Fracton Order. [arXiv:1812.01613](https://arxiv.org/abs/1812.01613)
 
 1. David Aasen, Ethan Lake, Kevin Walker. Fermion condensation and super pivotal categories. [arXiv:1709.01941](https://arxiv.org/abs/1709.01941)
 
