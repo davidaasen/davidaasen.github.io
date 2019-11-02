@@ -12,7 +12,7 @@ title: David Aasen's CV
 ## Education
 
 `2018-` 
-__Microsoft postdoctoral scholar with the Condensed Matter group at the Department of Physics__ (upcoming, Santa Barbara)
+__Joint postdoctoral fellow at Microsoft Station Q and KITP__ (Santa Barbara)
 
 `2012-18` 
 __California Institute of Technology__ PhD
