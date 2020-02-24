@@ -42,6 +42,13 @@ __James F Mathison Scholarship__ (McGill)
 
 ## Academic Activities
 
+`2020`
+__Invited participant: Fractons and Beyond__ (Banff International Research Station, January 2020)
+
+
+`2019`
+__Outreach at Laguna Blanca High School__ (Santa Barbara, April 2019)
+
 `2018`
 __Internship at Microsoft Research__ (Microsoft Redmond campus)
 
@@ -61,6 +68,9 @@ __Les Houches summer school on topological aspects of condensed matter physics__
 __Invited participant of the Microsoft Station Q meeting__
 
 ## Invited Talks
+`2019`
+__Interacting Majorana Fermions__ (University of British Columbia, May 2019)
+
 `2018` 
 __Sydney Quantum Information Theory Workshop__ (Coogee)
 
@@ -83,6 +93,9 @@ __Relativistic quantum information - North__ (Perimeter Institute for theoretica
 ## Publications
 
 <!-- ### Journals -->
+
+`2018`
+Kevin Slagle, David Aasen, Dominic Williamson. Foliated Field Theory and String-Membrane-Net Condensation Picture of Fracton Order. arXiv:1812.01613
 
 `2017`
 David Aasen, Ethan Lake, Kevin Walker. Fermion condensation and super pivotal categories. [arXiv:1709.01941](https://arxiv.org/abs/1709.01941)
