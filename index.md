@@ -7,6 +7,11 @@ Topological phases have materialized as one of the most exciting areas of resear
 
 
 ## Papers on the arxiv:
+
+1. David Aasen, Daniel Bulmash, Abhinav Prem, Kevin Slagle, Dominic J. Williamson. Topological Defect Networks for Fractons of all Types. [arXiv:2002.05166](https://arxiv.org/abs/2002.05166)
+
+1. David Aasen, Roger S. K. Mong, Benjamin Hunt, David Mandrus, Jason Alicea. Electrical probes of the non- Abelian spin liquid in Kitaev materials. [arXiv:2002.01944](https://arxiv.org/abs/2002.01944)
+
 1. Kevin Slagle, David Aasen, Dominic Williamson. Foliated Field Theory and String-Membrane-Net Condensation Picture of Fracton Order. [arXiv:1812.01613](https://arxiv.org/abs/1812.01613)
 
 1. David Aasen, Ethan Lake, Kevin Walker. Fermion condensation and super pivotal categories. [arXiv:1709.01941](https://arxiv.org/abs/1709.01941)
@@ -28,7 +33,7 @@ Topological phases have materialized as one of the most exciting areas of resear
 
 ## Google [Scholar](https://scholar.google.com/citations?user=vNuuzc8AAAAJ&hl=en) page 
 
-[Link to CV (up-to-date June 2018)](./CV.html).
+[Link to CV (up-to-date Feb 2020)](./CV.html).
 
 [comment]: <> ( [Link to another page](./another-page.html). ) 
 
