@@ -94,8 +94,14 @@ __Relativistic quantum information - North__ (Perimeter Institute for theoretica
 
 <!-- ### Journals -->
 
+`2020`
+David Aasen, Daniel Bulmash, Abhinav Prem, Kevin Slagle, Dominic J. Williamson. Topological Defect Networks for Fractons of all Types. [arXiv:2002.05166](https://arxiv.org/abs/2002.05166)
+
+`2020`
+David Aasen, Roger S. K. Mong, Benjamin Hunt, David Mandrus, Jason Alicea. Electrical probes of the non- Abelian spin liquid in Kitaev materials. [arXiv:2002.01944](https://arxiv.org/abs/2002.01944)
+
 `2018`
-Kevin Slagle, David Aasen, Dominic Williamson. Foliated Field Theory and String-Membrane-Net Condensation Picture of Fracton Order. arXiv:1812.01613
+Kevin Slagle, David Aasen, Dominic Williamson. Foliated Field Theory and String-Membrane-Net Condensation Picture of Fracton Order. [arXiv:1812.01613](https://arxiv.org/abs/1812.01613)
 
 `2017`
 David Aasen, Ethan Lake, Kevin Walker. Fermion condensation and super pivotal categories. [arXiv:1709.01941](https://arxiv.org/abs/1709.01941)
