@@ -9,10 +9,10 @@ title: David Aasen's CV
 <a href="dave@aasen.ca">dave (at) aasen.ca</a>
 </div>
 
-## Education
+## Education and Employment
 
 `2018-` 
-__Joint postdoctoral fellow at Microsoft Station Q and KITP__ (Santa Barbara)
+__Joint postdoctoral fellow at Microsoft Station Q and The Kavli Institute for Theoretical Physics__ (Santa Barbara)
 
 `2012-18` 
 __California Institute of Technology__ PhD
@@ -47,7 +47,7 @@ __Invited participant: Fractons and Beyond__ (Banff International Research Stati
 
 
 `2019`
-__Outreach at Laguna Blanca High School__ (Santa Barbara, April 2019)
+__Outreach seminar at Laguna Blanca High School__ (Santa Barbara, April 2019)
 
 `2018`
 __Internship at Microsoft Research__ (Microsoft Redmond campus)
@@ -68,6 +68,7 @@ __Les Houches summer school on topological aspects of condensed matter physics__
 __Invited participant of the Microsoft Station Q meeting__
 
 ## Invited Talks
+
 `2019`
 __Interacting Majorana Fermions__ (University of British Columbia, May 2019)
 
