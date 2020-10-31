@@ -93,6 +93,8 @@ __Relativistic quantum information - North__ (Perimeter Institute for theoretica
 ## Publications
 
 <!-- ### Journals -->
+`2020`
+David Aasen, Paul Fendley, Roger Mong. Topological Defects on the Lattice: Dualities and Degeneracies. [arXiv:2008.08598](https://arxiv.org/abs/2008.08598)
 
 `2020`
 David Aasen, Daniel Bulmash, Abhinav Prem, Kevin Slagle, Dominic J. Williamson. Topological Defect Networks for Fractons of all Types. [arXiv:2002.05166](https://arxiv.org/abs/2002.05166)
