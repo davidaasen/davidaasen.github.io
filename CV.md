@@ -69,8 +69,14 @@ __Invited participant of the Microsoft Station Q meeting__
 
 ## Invited Talks
 
+`2020`
+__Electrical probes of the non-Abelian spin liquid phase in &alpha-RuCl<sub>3</sub>__ (Unconventional Magnetism and Novel Probes in Heterostructures hosted by Kavli Institute for Theoretical Physics, October)
+
 `2019`
-__Electrical probes of the non-Abelian spin liquid phase in RuCl3<sub>3</sub>__ (University of British Columbia, May 2019)
+__Electrical probes of the non-Abelian spin liquid phase in &alpha-RuCl<sub>3</sub>__ (Condensed Matter Seminar hosted by Freie Universitat Berlin, August)
+
+
+__Electrical probes of the non-Abelian spin liquid phase in &alpha-RuCl<sub>3</sub>__ (Interacting Majorana Fermions hosted by Stewart Blusson Quantum Matter Institute, May)
 
 `2018` 
 __Fermion condensation and superconducting string-nets__ (Sydney Quantum Information Theory Workshop, January)
