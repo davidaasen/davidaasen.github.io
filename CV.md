@@ -52,7 +52,7 @@ __Outreach seminar at Laguna Blanca High School__ (Santa Barbara, April 2019)
 `2018`
 __Internship at Microsoft Research__ (Microsoft Redmond campus)
 
-`2017`
+`2017-18`
 __Member of the IQIM seminar organization committee__ (Caltech, 2017)
 
 `2016`
