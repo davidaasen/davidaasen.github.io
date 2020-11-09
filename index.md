@@ -3,7 +3,19 @@ layout: default
 ---
 
 ## Research interests:
-Topological phases have materialized as one of the most exciting areas of research in modern condensed matter physics. The topological character of a given phase may present itself in many ways, such as quantized edge currents, patterns of fractionalization, and topology-dependent ground-state degeneracy. Topological phases can host exotic anyonic excitations whose statistics is neither bosonic nor fermionic. Even more strikingly, the anyonic statistics may be history dependent (i.e., depend on their shared topological charge). Such anyons are called "non-Abelian" and have applications in topological quantum computing. Their applications are a major driving force of research on topological phases today, much of which is devoted to answering two questions: First, how can we realize and ultimately manipulate topological phases to our advantage? Second, how do we characterize and classify topological phases of matter? Classifcations are often abstract yet have profound physical consequences. In particular, they determine what nature allows as a matter of principle, in turn prompting us to search for realizations.
+The interplay of topology, quantum information, and condensed matter physics has emerged as one of the most fascinating and quickly developing areas of modern research. 
+In Philip Anderson's famous 1972 article ["More is Different,"](https://science.sciencemag.org/content/177/4047/393) he describes how the collective behavior of large complex aggregates can drastically differ from that of the constituents. 
+Typically these macroscopic behaviors are distinguished by local symmetry breaking order parameters.
+A famous counterexample came with the discovery of the quantum Hall effect, where distinct phases enjoyed the same symmetries and thus could not be fully charecterized by local order parameters alone.
+This discovery marked the introduction of topological phases of matter and triggered decades of research on the subject.
+Topological phases provide an organizing framework for a wide variety of problems from the quantum Hall effect to error-correcting codes.
+
+Inherently robust to local perturbations, topological phases furnish platforms well-suited for fault-tolerant quantum computation.
+Quantum computers are one of the major driving forces of research on topological phases today and promise a wide range of applications from testing modern security protocols to quantum simulators that can predict the physics of real systems beyond the capabilities of any classical computer.
+Realizing this potential is burdened by many fundamental challenges such as environmental noise.
+One resolution exploited in nearly all quantum computing platforms is the use of topology---at its core, one delocalizes quantum information over space, ensuring that it is insensitive to local perturbations.
+
+Inspired by the need for realistic blueprints of quantum computing hardware, my research spans several areas of topological quantum condensed matter physics. On the practical side, I propose realizations of topological phases and highlight their applications toward quantum computing technologies. And on the more formal end, I characterize and classify topological phases by developing the fundamental mathematics underpinning their description.
 
 
 ## Papers on the arxiv:
