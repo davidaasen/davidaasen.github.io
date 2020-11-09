@@ -12,10 +12,10 @@ title: David Aasen's CV
 ## Education and Employment
 
 `2018-` 
-__Joint postdoctoral fellow at Microsoft Station Q and The Kavli Institute for Theoretical Physics__ (Santa Barbara)
+__Postdoctoral Scholar at Mixrosoft Station Q and Postdoctoral Fellow at the Kavli Institute for Theoretical Physics__ Joint appointment
 
 `2012-18` 
-__California Institute of Technology__ PhD
+__California Institute of Technology__ Ph.D., Department of Applied Physics. Thesis: Super Pivotal Categories, Fermion Condensation, and Fermionic Topological Phases.
 
 `2008-11` 
 __McGill University__ Joint Honours in Mathematics and Physics 
@@ -70,30 +70,33 @@ __Invited participant of the Microsoft Station Q meeting__
 ## Invited Talks
 
 `2019`
-__Interacting Majorana Fermions__ (University of British Columbia, May 2019)
+__Electrical probes of the non-Abelian spin liquid phase in RuCl3<sub>3</sub>__ (University of British Columbia, May 2019)
 
 `2018` 
-__Sydney Quantum Information Theory Workshop__ (Coogee)
+__Fermion condensation and superconducting string-nets__ (Sydney Quantum Information Theory Workshop, January)
 
 `2017`
-__Yale__
+__Fermion condensation and superconducting string-nets__ (Yale, December)
 
-__Perimeter Institute for Theoretical Physics__
+__Fermion condensation and superconducting string-nets__(Perimeter Institute for Theoretical Physics, December)
 
-__Microsoft Research Station Q seminar__ (Santa Barbara)
+__Fermion condensation and superconducting string-nets__ (Microsoft Research Station Q, September)
 
-__Strongly Correlated Topological Phases of Matter__ (Simons center for geometry and physics)
+__Fermion Condensation and Superconducting String-nets__ (Strongly Correlated Topological Phases of Matter at the Simons Center for Geometry and Physics, June)
 
-__String theory group seminar__ (Ludwig Maximilian University)
+__Topological defects on the lattice__ (String theory group seminar Ludwig Maximilian University, April)
 
-__Cocycling in Flanders__ (Ghent University, April 2017)
+__Topological defects on the lattice__ (Cocycling in Flanders hosted by Ghent University, April)
 
 `2012`
-__Relativistic quantum information - North__ (Perimeter Institute for theoretical physics)
+__Towards Universal Quantum Computation Out of Relativistic Motion of Particle Detectors__ (Relativistic quantum information---North hosted by Perimeter Institute for theoretical physics, June)
 
 ## Publications
 
 <!-- ### Journals -->
+`2020`
+Kai Klocke, David Aasen, Roger S. K. Mong, Eugene A. Demler, Jason Alicea. Time-domain anyon interferometry in Kitaev honeycomb spin liquids and beyond. [arXiv:2011.00015](https://arxiv.org/abs/2011.00015)
+
 `2020`
 David Aasen, Paul Fendley, Roger Mong. Topological Defects on the Lattice: Dualities and Degeneracies. [arXiv:2008.08598](https://arxiv.org/abs/2008.08598)
 
