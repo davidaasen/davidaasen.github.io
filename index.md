@@ -17,7 +17,7 @@ One resolution exploited in nearly all quantum computing platforms is the use of
 
 Inspired by the need for realistic blueprints of quantum computing hardware, my research spans several areas of topological quantum condensed matter physics. On the practical side, I propose realizations of topological phases and highlight their applications toward quantum computing technologies. And on the more formal end, I characterize and classify topological phases by developing the fundamental mathematics underpinning their description. Below is a world cloud capturing many of my interests.
 
-<img src="./controllers_brief.svg">
+<img src="./WordCloud.svg">
 
 
 
