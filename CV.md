@@ -107,34 +107,33 @@ Kai Klocke, David Aasen, Roger S. K. Mong, Eugene A. Demler, Jason Alicea. Time-
 David Aasen, Paul Fendley, Roger Mong. Topological Defects on the Lattice: Dualities and Degeneracies. [arXiv:2008.08598](https://arxiv.org/abs/2008.08598)
 
 `2020`
-David Aasen, Daniel Bulmash, Abhinav Prem, Kevin Slagle, Dominic J. Williamson. Topological Defect Networks for Fractons of all Types. [arXiv:2002.05166](https://arxiv.org/abs/2002.05166)
+David Aasen, Daniel Bulmash, Abhinav Prem, Kevin Slagle, Dominic J. Williamson. Topological Defect Networks for Fractons of all Types. Phys. Rev. Research 2 043165 [arXiv:2002.05166](https://arxiv.org/abs/2002.05166)
 
 `2020`
-David Aasen, Roger S. K. Mong, Benjamin Hunt, David Mandrus, Jason Alicea. Electrical probes of the non- Abelian spin liquid in Kitaev materials. [arXiv:2002.01944](https://arxiv.org/abs/2002.01944)
+David Aasen, Roger S. K. Mong, Benjamin Hunt, David Mandrus, Jason Alicea. Electrical probes of the non- Abelian spin liquid in Kitaev materials. Phys. Rev. X 10 031014. [arXiv:2002.01944](https://arxiv.org/abs/2002.01944)
 
 `2018`
-Kevin Slagle, David Aasen, Dominic Williamson. Foliated Field Theory and String-Membrane-Net Condensation Picture of Fracton Order. [arXiv:1812.01613](https://arxiv.org/abs/1812.01613)
+Kevin Slagle, David Aasen, Dominic Williamson. Foliated Field Theory and String-Membrane-Net Condensation Picture of Fracton Order. SciPost Phys. 6 43. [arXiv:1812.01613](https://arxiv.org/abs/1812.01613)
 
 `2017`
-David Aasen, Ethan Lake, Kevin Walker. Fermion condensation and super pivotal categories. [arXiv:1709.01941](https://arxiv.org/abs/1709.01941)
+David Aasen, Ethan Lake, Kevin Walker. Fermion condensation and super pivotal categories. Journal of Mathematical Physics 60 no. 12, 121901. [arXiv:1709.01941](https://arxiv.org/abs/1709.01941)
 
 `2016`
-David Aasen, Shu-Ping Lee, Torsten Karzig, Jason Alicea. Interaction effects in superconductor/quantum spin Hall devices: universal transport signatures and fractional Coulomb blockade. Phys. Rev. B 94, 165113 (2016). [arXiv:1606.09255](https://arxiv.org/abs/1606.09255)
+David Aasen, Shu-Ping Lee, Torsten Karzig, Jason Alicea. Interaction effects in superconductor/quantum spin Hall devices: universal transport signatures and fractional Coulomb blockade. Phys. Rev. B 94, 165113. [arXiv:1606.09255](https://arxiv.org/abs/1606.09255)
 
-Ryan V. Mishmash, David Aasen, Andrew P. Higginbotham, Jason Alicea. Approaching a topological phase transition in Majorana nanowires. Phys. Rev. B 93, 245404 (2016). [arXiv:1601.07908](https://arxiv.org/abs/1601.07908)
+David Aasen, Michael Hell, Ryan V. Mishmash, Andrew Higginbotham, Jeroen Danon, Martin Leijnse, Thomas S. Jespersen, Joshua A. Folk, Charles M. Marcus, Karsten Flensberg, Jason Alicea. Milestones toward Majorana-based quantum computing. Phys. Rev. X 6, 031016. [	arXiv:1511.05153](https://arxiv.org/abs/1511.05153)
 
-David Aasen, Roger S. K. Mong, Paul Fendley. Topological Defects on the Lattice I: The Ising model.  J. Phys. A: Math. Theor. 49 (2016) 354001. [arXiv:1601.07185](https://arxiv.org/abs/1601.07185)
+Ryan V. Mishmash, David Aasen, Andrew P. Higginbotham, Jason Alicea. Approaching a topological phase transition in Majorana nanowires. Phys. Rev. B 93, 245404. [arXiv:1601.07908](https://arxiv.org/abs/1601.07908)
 
-`2015`
-David Aasen, Michael Hell, Ryan V. Mishmash, Andrew Higginbotham, Jeroen Danon, Martin Leijnse, Thomas S. Jespersen, Joshua A. Folk, Charles M. Marcus, Karsten Flensberg, Jason Alicea. Milestones toward Majorana-based quantum computing. Phys. Rev. X 6, 031016 (2016). [	arXiv:1511.05153](https://arxiv.org/abs/1511.05153)
+David Aasen, Roger S. K. Mong, Paul Fendley. Topological Defects on the Lattice I: The Ising model.  J. Phys. A: Math. Theor. 49 354001. [arXiv:1601.07185](https://arxiv.org/abs/1601.07185)
 
 `2012`
-David Aasen, Tejal Bhamre, Achim Kempf. Shape from sound: toward new tools for quantum gravity. Phys. Rev. Lett. 110, 121301 (2013). [arXiv:1212.5297](https://arxiv.org/abs/1212.5297)
-
 Eduardo Martin-Martinez, David Aasen, Achim Kempf. Processing quantum information with relativistic motion of atoms. Phys. Rev. Lett. 110, 160501. [arXiv:1209.4948](https://arxiv.org/abs/1209.4948)
 
+David Aasen, Tejal Bhamre, Achim Kempf. Shape from sound: toward new tools for quantum gravity. Phys. Rev. Lett. 110, 121301. [arXiv:1212.5297](https://arxiv.org/abs/1212.5297)
+
 `2011`
-David Aasen, Stefano Chesi, W. A. Coish. Quasiparticle velocities in 2D electron/hole liquids with spin-orbit coupling. Phys. Rev. B 85, 075321 (2012). [arXiv:1110.6661](https://arxiv.org/abs/1110.6661)
+David Aasen, Stefano Chesi, W. A. Coish. Quasiparticle velocities in 2D electron/hole liquids with spin-orbit coupling. Phys. Rev. B 85, 075321. [arXiv:1110.6661](https://arxiv.org/abs/1110.6661)
 
 
 ### [Back](./)
