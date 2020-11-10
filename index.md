@@ -19,8 +19,6 @@ Inspired by the need for realistic blueprints of quantum computing hardware, my 
 
 <img src="./WordCloud.svg">
 
-
-
 ## Papers on the arxiv:
 
 1. Kai Klocke, David Aasen, Roger S. K. Mong, Eugene A. Demler, Jason Alicea. Time-domain anyon interferometry in Kitaev honeycomb spin liquids and beyond. [arXiv:2011.00015](https://arxiv.org/abs/2011.00015)
