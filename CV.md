@@ -12,7 +12,7 @@ title: David Aasen's CV
 ## Education and Employment
 
 `2018-` 
-__Postdoctoral Scholar at Mixrosoft Station Q and Postdoctoral Fellow at the Kavli Institute for Theoretical Physics__ Joint appointment
+__Joint Postdoctoral Fellow at Microsoft Station Q and the Kavli Institute for Theoretical Physics__ Joint appointment
 
 `2012-18` 
 __California Institute of Technology__ Ph.D., Department of Applied Physics. Thesis: Super Pivotal Categories, Fermion Condensation, and Fermionic Topological Phases.
