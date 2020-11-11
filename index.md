@@ -15,7 +15,7 @@ Quantum computers are one of the major driving forces of research on topological
 Realizing this potential is burdened by many fundamental challenges such as environmental noise.
 One resolution exploited in nearly all quantum computing platforms is the use of topology---at its core, one delocalizes quantum information over space, ensuring that it is insensitive to local perturbations.
 
-Inspired by the need for realistic blueprints of quantum computing hardware, my research spans several areas of topological quantum condensed matter physics. On the practical side, I propose realizations of topological phases and highlight their applications toward quantum computing technologies. And on the more formal end, I characterize and classify topological phases by developing the fundamental mathematics underpinning their description. Below is a world cloud capturing many of my interests.
+Inspired by the need for realistic blueprints of quantum computing hardware, my research spans several areas of topological quantum condensed matter physics. On the practical side, I propose realizations of topological phases and highlight their applications toward quantum computing technologies. And on the more formal end, I characterize and classify topological phases by developing the fundamental mathematics underpinning their description. The wordcloud below gives a general sense of my interests.
 
 <img src="./WordCloud.svg">
 
