@@ -105,6 +105,10 @@ __Towards Universal Quantum Computation Out of Relativistic Motion of Particle D
 ## Publications
 
 <!-- ### Journals -->
+`2021`
+David Aasen, Parsa Bonderson, Christina Knapp. Torsorial actions on G-crossed braided tensor categories. [arXiv:2107.10270](https://arxiv.org/abs/2107.10270)
+
+
 `2020`
 Kai Klocke, David Aasen, Roger S. K. Mong, Eugene A. Demler, Jason Alicea. Time-domain anyon interferometry in Kitaev honeycomb spin liquids and beyond. [arXiv:2011.00015](https://arxiv.org/abs/2011.00015)
 
