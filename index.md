@@ -21,6 +21,9 @@ Inspired by the need for realistic blueprints of quantum computing hardware, my 
 
 ## Papers on the arxiv:
 
+1. David Aasen, Parsa Bonderson, Christina Knapp. Characterization and Classification of Fermionic Symmetry Enriched Topological Phases. [arXiv:2109.10911
+](https://arxiv.org/abs/2109.10911)
+
 1. Kevin Slagle, David Aasen, Hannes Pichler, Roger S. K. Mong, Paul Fendley, Xie Chen, Manuel Endres, Jason Alicea. Microscopic characterization of Ising conformal field theory in Rydberg chains. [arXiv:2108.09309](https://arxiv.org/abs/2108.09309)
 
 1. David Aasen, Parsa Bonderson, Christina Knapp.Torsorial actions on G-crossed braided tensor categories. [arXiv:2107.10270](https://arxiv.org/abs/2107.10270)
