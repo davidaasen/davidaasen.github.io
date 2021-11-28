@@ -107,6 +107,11 @@ __Towards Universal Quantum Computation Out of Relativistic Motion of Particle D
 <!-- ### Journals -->
 
 `2021`
+Victor V. Albert, David Aasen, Wenqing Xu, Wenjie Ji, Jason Alicea, John Preskill. Spin chains, defects, and quantum wires for the quantum-double edge
+. [arXiv:2111.12096](https://arxiv.org/abs/2111.12096)
+
+
+`2021`
 David Aasen, Parsa Bonderson, Christina Knapp. Characterization and Classification of Fermionic Symmetry Enriched Topological Phases. [arXiv:2109.10911
 ](https://arxiv.org/abs/2109.10911)
 
