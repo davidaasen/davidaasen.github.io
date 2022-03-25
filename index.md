@@ -21,8 +21,9 @@ Inspired by the need for realistic blueprints of quantum computing hardware, my 
 
 ## Papers on the arxiv:
 
-1. Victor V. Albert, David Aasen, Wenqing Xu, Wenjie Ji, Jason Alicea, John Preskill. Spin chains, defects, and quantum wires for the quantum-double edge
-. [arXiv:2111.12096](https://arxiv.org/abs/2111.12096)
+1. David Aasen, Zhenghan Wang, Matthew B. Hastings. Adiabatic paths of Hamiltonians, symmetries of topological order, and automorphism codes. [arXiv:2203.11137](https://arxiv.org/abs/2203.11137)
+
+1. Victor V. Albert, David Aasen, Wenqing Xu, Wenjie Ji, Jason Alicea, John Preskill. Spin chains, defects, and quantum wires for the quantum-double edge. [arXiv:2111.12096](https://arxiv.org/abs/2111.12096)
 
 1. David Aasen, Parsa Bonderson, Christina Knapp. Characterization and Classification of Fermionic Symmetry Enriched Topological Phases. [arXiv:2109.10911
 ](https://arxiv.org/abs/2109.10911)
