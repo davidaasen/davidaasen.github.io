@@ -21,6 +21,8 @@ Inspired by the need for realistic blueprints of quantum computing hardware, my 
 
 ## Papers on the arxiv:
 
+1. Kevin Slagle, Yue Liu, David Aasen, Hannes Pichler, Roger S. K. Mong, Xie Chen, Manuel Endres, Jason Alicea. Quantum spin liquids bootstrapped from Ising criticality in Rydberg arrays.[arXiv:2204.00013](https://arxiv.org/abs/2204.00013)
+
 1. David Aasen, Zhenghan Wang, Matthew B. Hastings. Adiabatic paths of Hamiltonians, symmetries of topological order, and automorphism codes. [arXiv:2203.11137](https://arxiv.org/abs/2203.11137)
 
 1. Victor V. Albert, David Aasen, Wenqing Xu, Wenjie Ji, Jason Alicea, John Preskill. Spin chains, defects, and quantum wires for the quantum-double edge. [arXiv:2111.12096](https://arxiv.org/abs/2111.12096)
